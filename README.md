@@ -28,4 +28,4 @@
 
 （其中不仅包含数据库，还包含本论坛源码）
 
-![泄露WearBBS数据](https://github.com/JackuXL/Yanda2008_Killer/raw/master/pic4.jpg)
+![泄露WearBBS数据](https://github.com/JackuXL/Yanda2008_Killer/raw/master/pic4.pnghttps://github.com/JackuXL/Yanda2008_Killer/raw/master/pic4.png)
