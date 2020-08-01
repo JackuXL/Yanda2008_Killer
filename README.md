@@ -6,7 +6,7 @@
 
 一、“破解”开源且免费软件，把不加密叫成不签名
 
-![破解开源免费软件](C:\Users\32375\Desktop\psc.jpg)
+![破解开源免费软件](https://s1.ax1x.com/2020/08/01/a854Cq.jpg)
 
 > 抄袭行为类
 
@@ -18,9 +18,9 @@
 
 二、抄袭“WearBBS”口号：因为热爱，所以存在
 
-![XTCBBS口号](C:\Users\32375\Desktop\psc (1).jpg)
+![XTCBBS口号](https://s1.ax1x.com/2020/08/01/a85I2V.jpg)
 
-![WearBBS口号](C:\Users\32375\Desktop\QQ截图20200801175643.png)
+![WearBBS口号](https://s1.ax1x.com/2020/08/01/a857KU.png)
 
 > 泄露隐私类
 
@@ -28,4 +28,4 @@
 
 （其中不仅包含数据库，还包含本论坛源码）
 
-![泄露WearBBS数据](C:\Users\32375\Desktop\QQ截图20200801173107.png)
+![泄露WearBBS数据](https://s1.ax1x.com/2020/08/01/a85LVJ.png)
