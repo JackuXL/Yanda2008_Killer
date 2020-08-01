@@ -20,7 +20,7 @@
 
 ![XTCBBS口号](https://github.com/JackuXL/Yanda2008_Killer/raw/master/pic2.jpg)
 
-![WearBBS口号](https://github.com/JackuXL/Yanda2008_Killer/raw/master/pic3.jpg)
+![WearBBS口号](https://github.com/JackuXL/Yanda2008_Killer/raw/master/pic3.png)
 
 > 泄露隐私类
 
