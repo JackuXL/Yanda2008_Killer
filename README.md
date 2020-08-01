@@ -10,11 +10,12 @@
 
 > 抄袭行为类
 
-一、域名疑似模仿“WearMe”及“WearBBS”前身XTCBBS
+一、域名疑似模仿“WearMe”及“WearBBS”前身XTCBBS及新论坛XTCClub
 
 主域名：https://wearandme.com/
 
 短域名：http://xtcclub.cr.cx/
+名称：XTCBBS
 
 二、抄袭“WearBBS”口号：因为热爱，所以存在
 
