@@ -6,7 +6,7 @@
 
 一、“破解”开源且免费软件，把不加密叫成不签名
 
-![破解开源免费软件](https://s1.ax1x.com/2020/08/01/a854Cq.jpg)
+![破解开源免费软件](https://github.com/JackuXL/Yanda2008_Killer/raw/master/pic1.jpg)
 
 > 抄袭行为类
 
@@ -18,9 +18,9 @@
 
 二、抄袭“WearBBS”口号：因为热爱，所以存在
 
-![XTCBBS口号](https://s1.ax1x.com/2020/08/01/a85I2V.jpg)
+![XTCBBS口号](https://github.com/JackuXL/Yanda2008_Killer/raw/master/pic2.jpg)
 
-![WearBBS口号](https://s1.ax1x.com/2020/08/01/a857KU.png)
+![WearBBS口号](https://github.com/JackuXL/Yanda2008_Killer/raw/master/pic3.jpg)
 
 > 泄露隐私类
 
@@ -28,4 +28,4 @@
 
 （其中不仅包含数据库，还包含本论坛源码）
 
-![泄露WearBBS数据](https://s1.ax1x.com/2020/08/01/a85LVJ.png)
+![泄露WearBBS数据](https://github.com/JackuXL/Yanda2008_Killer/raw/master/pic4.jpg)
