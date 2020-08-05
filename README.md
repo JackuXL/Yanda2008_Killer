@@ -1,6 +1,6 @@
 # Yanda2008_Killer
 
-*整理那些年Yanda2008（又名Baldwin、冒烟的Java）做过的抄袭、奇葩事件。
+*整理那些年FastRom（又名Baldwin、冒烟的Java、Yanda2008）做过的抄袭、奇葩事件。
 
 > 迷惑行为类
 
